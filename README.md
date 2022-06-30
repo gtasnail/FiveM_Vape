@@ -5,6 +5,7 @@ Model Credits: https://sketchfab.com/3d-models/vape-3d-model-f238a0756d364d3c92e
 Model Author: @JamesDawson
 
 Converter: KyroWasHere/Kypos
+Converting App Used: Blender with the epic sollumz addon <3
 
 
 **IMAGES**
